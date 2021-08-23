@@ -1,11 +1,10 @@
 {
-  "name": "react-scripts",
+  "name": "react-scripts-artisan",
   "version": "4.0.3",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/react-scripts"
+    "url": "https://github.com/EhsanFortuna/create-react-app.git",
   },
   "license": "MIT",
   "engines": {
@@ -24,7 +23,7 @@
     "utils"
   ],
   "bin": {
-    "react-scripts": "./bin/react-scripts.js"
+    "react-scripts-artisa": "./bin/react-scripts.js"
   },
   "types": "./lib/react-app.d.ts",
   "dependencies": {

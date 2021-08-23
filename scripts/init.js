@@ -404,6 +404,7 @@ module.exports = function (
   }
   console.log();
   console.log('Happy hacking!');
+  console.log("this is custom version")
 };
 
 function isReactInstalled(appPackage) {
