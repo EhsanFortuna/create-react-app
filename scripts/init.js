@@ -406,6 +406,7 @@ module.exports = function (
   }
   console.log();
   console.log('Happy hacking!');
+  console.log('this is customized');
 };
 
 function isReactInstalled(appPackage) {
